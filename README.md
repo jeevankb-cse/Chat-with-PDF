@@ -132,7 +132,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Built by **Deeksha Shakyawal**
+Built by **Jeevan K B**
 For learning RAG and real-world LLM apps.
 
 ---
