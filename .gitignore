@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# Uploaded and temporary files
+temp.pdf
+*.pdf
+
+# Vector database
+chroma_db/
+.chromadb/
+
+# IDE
+.vscode/
